@@ -1,5 +1,5 @@
 # pyboid
-Boid's simulation in Pythonus using -5
+Boid's simulation in Python using p5
 
 ## Usage
 To run the simulation, you need:
